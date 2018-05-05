@@ -1,4 +1,4 @@
-name: san-cpu-env
+name: svae-vmp
 channels:
 - anaconda
 - defaults
